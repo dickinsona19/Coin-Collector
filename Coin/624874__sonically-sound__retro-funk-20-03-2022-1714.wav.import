@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/624874__sonically-sound__retro-funk-20-03-2022-1714.wav-c766f9f0d2652c82a2704e1454ed6466.sample"
+
+[deps]
+
+source_file="res://Coin/624874__sonically-sound__retro-funk-20-03-2022-1714.wav"
+dest_files=[ "res://.import/624874__sonically-sound__retro-funk-20-03-2022-1714.wav-c766f9f0d2652c82a2704e1454ed6466.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

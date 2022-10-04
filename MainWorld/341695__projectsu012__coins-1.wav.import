@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/341695__projectsu012__coins-1.wav-6157365643e5cd72e6179e0456ff3e97.sample"
+
+[deps]
+
+source_file="res://MainWorld/341695__projectsu012__coins-1.wav"
+dest_files=[ "res://.import/341695__projectsu012__coins-1.wav-6157365643e5cd72e6179e0456ff3e97.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
