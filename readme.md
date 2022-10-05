@@ -1,5 +1,5 @@
-### Platformer Demo 0.1.0
-- A solution to Project 2:1 in CS 315 by Andrew Dickinson
+### Platformer Demo 0.2.0
+- A solution to Project 2:2 in CS 315 by Andrew Dickinson
 - Made using the Godot 3.5
 ## How to play
 - (Space, W) Jump
@@ -12,7 +12,7 @@
 ## Project Report Iteration 1
 
 ## Reflection
-This project I did not really have a lot of time this week, this is seen in the project as it is extreamly bare bones. But I did learn a bit about one way collsions and how to create your own physics. I actually really enjoyed learning how to apply what I learned in physics, I applied my understanding on gravity and velocity to create a decent feeling jump action. 
+I really enjoyed doing research on "Juiceness" of games. I ended up added eyes to my coin to make my game a bit more interesting. But I also have been inspired on how to add a lot more juice to my games in the future. Before trying this I tried to work on the ludem dare project and I tried to make a game way to massive for the time period given, I now know my limits better. 
 
 ### Self-Assessment
 - [X] D-1: The repository contains a <code>README.md</code> file in its top-level directory.
@@ -25,14 +25,19 @@ This project I did not really have a lot of time this week, this is seen in the 
 - [X] C-6: The player's character can move left and right, with its movement bounded by impassable tiles.
 - [X] C-7: The player's character can jump up and onto tiles.
 - [X] C-8: The player's character falls down when walking off a ledge.
+- [X] C-9: Include a full player experience loop: title, gameplay, end.
 - [X] B-1: The project report is complete.
 - [X] B-2: The source code and project structure comply with <a href="https://www.gdquest.com/docs/guidelines/best-practices/godot-gdscript/">our adopted guidelines</a>.
 - [X] B-3: There is a sprite element in the level that the player can interact with, such as a collectible, an enemy, a book, or a switch.
 - [X] B-4: The camera follows the character through a world that is larger than one screen.
-- [X] A-1: Generate neither warnings nor errors at runtime.
-- [X] A-2: Earn one star
+- [X] B-5: Include sound effects and music.
+- [X] B-6: Include a HUD that tracks game-appropriate data such as score or time remaining.
+- [X] B-7: Include a clear example of <em>juice</em> and describe it in the <code>README.md</code>.
+- [] A-1: Generate neither warnings nor errors at runtime.
+- [ ] A-2: Include two clear examples of <em>juice</em> and describe them in the <code>README.md</code>.
+- [ ] A-3: Earn two stars.
 - [ ] ⭐ Animate the main character using either <code>AnimatedSprite</code> or cutout animation
 - [ ] ⭐ Include parallax scrolling in the background.
-- [X] ⭐ Include tiles that can be passed in one direction, such as being able to jump up through a tile and land atop it.
+- [ ] ⭐ Include tiles that can be passed in one direction, such as being able to jump up through a tile and land atop it.
 
-Therefore this work merits an A
+There for this work merits a B
